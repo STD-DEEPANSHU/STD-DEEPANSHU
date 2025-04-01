@@ -153,6 +153,18 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/STD-DEEPANSHU.STD-DEEPANSHU.svg)
+![views since 2023/06/14](https://visitor-badge-deno.deno.dev/STD-DEEPANSHU.STD-DEEPANSHU.svg) 
+### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+
+<!--
+**THE-VIP-BOY-OP/THE-VIP-BOY-OP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/STD-DEEPANSHU/count.svg" />
+</p>
+
+
 
 
