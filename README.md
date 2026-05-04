@@ -152,7 +152,6 @@
 
 ```
 Python        ████████████████████  Expert    — Bots, Flask, Pillow, APIs, Scraping
-PHP           ████████████████████  Expert    — REST APIs, cURL, cPanel Hosting
 JavaScript    ████████████████████  Expert    — CF Workers, Hono.js, Node.js
 TypeScript    ████████████████░░░░  Advanced  — Type-safe CF Workers & APIs
 Bash / Shell  ███████████████░░░░░  Advanced  — Termux Tools, Server Automation
@@ -160,8 +159,7 @@ Go            ██████████████░░░░░░  Adva
 React / Next  █████████████░░░░░░░  Advanced  — SPA, SSR, Full-stack Apps
 Vue / Svelte  ████████████░░░░░░░░  Mid       — Reactive UIs, Component Design
 Tailwind CSS  █████████████░░░░░░░  Advanced  — Utility-first Styling, Dark UIs
-C / C++       ████████████░░░░░░░░  Mid       — Low-level, Reverse Engineering, Embeds
-Ruby          ███████████░░░░░░░░░  Mid       — Scripting, Sinatra, Automation
+
 ```
 
 ---
@@ -170,9 +168,9 @@ Ruby          ███████████░░░░░░░░░  Mid 
 
 <div align="center">
 
-[![Telegram Channel](https://img.shields.io/badge/BIZ%20FACTORY%20Channel-@bizft-0f0c29?style=for-the-badge&logo=telegram&logoColor=a78bfa)](https://t.me/bizft)
-[![Telegram](https://img.shields.io/badge/DM%20Me-@mk_hossain-0f0c29?style=for-the-badge&logo=telegram&logoColor=f97316)](https://t.me/mk_hossain)
-[![GitHub](https://img.shields.io/badge/GitHub-mkhossainx-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/mkhossainx)
+[![Telegram Channel](https://img.shields.io/badge/STD%20BOTS%20Channel-@STDBOTS-0f0c29?style=for-the-badge&logo=telegram&logoColor=a78bfa)](https://t.me/STDBOTS)
+[![Telegram](https://img.shields.io/badge/DM%20Me-@STD_DEEPANSHU-0f0c29?style=for-the-badge&logo=telegram&logoColor=f97316)](https://t.me/STD_DEEPANSHU)
+[![GitHub](https://img.shields.io/badge/GitHub-STD-DEEPANSHU-0f0c29?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/STD-DEEPANSHU)
 
 </div>
 
