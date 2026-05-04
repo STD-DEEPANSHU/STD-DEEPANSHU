@@ -28,13 +28,9 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![PHP](https://img.shields.io/badge/PHP-0f0c29?style=for-the-badge&logo=php&logoColor=a78bfa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=a78bfa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
 ![Go](https://img.shields.io/badge/Go-0f0c29?style=for-the-badge&logo=go&logoColor=a78bfa)
-![C](https://img.shields.io/badge/C-0f0c29?style=for-the-badge&logo=c&logoColor=a78bfa)
-![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=cplusplus&logoColor=f97316)
-![Ruby](https://img.shields.io/badge/Ruby-0f0c29?style=for-the-badge&logo=ruby&logoColor=f97316)
 ![Bash](https://img.shields.io/badge/Bash-0f0c29?style=for-the-badge&logo=gnubash&logoColor=a78bfa)
 
 **Frontend**
@@ -49,7 +45,6 @@
 **Frameworks & Runtimes**
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0f0c29?style=for-the-badge&logo=cloudflare&logoColor=f97316)
-![Hono.js](https://img.shields.io/badge/Hono.js-0f0c29?style=for-the-badge&logo=hono&logoColor=a78bfa)
 ![Flask](https://img.shields.io/badge/Flask-0f0c29?style=for-the-badge&logo=flask&logoColor=a78bfa)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=nodedotjs&logoColor=a78bfa)
 ![Gin](https://img.shields.io/badge/Gin-0f0c29?style=for-the-badge&logo=go&logoColor=a78bfa)
@@ -90,11 +85,6 @@
   <sub>⭐⭐⭐⭐⭐</sub>
 </td>
 <td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48"/><br/>
-  <sub><b>PHP</b></sub><br/>
-  <sub>⭐⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48"/><br/>
   <sub><b>JavaScript</b></sub><br/>
   <sub>⭐⭐⭐⭐⭐</sub>
@@ -120,21 +110,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48"/><br/>
   <sub><b>Go</b></sub><br/>
   <sub>⭐⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/><br/>
-  <sub><b>C</b></sub><br/>
-  <sub>⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48"/><br/>
-  <sub><b>C++</b></sub><br/>
-  <sub>⭐⭐⭐</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48"/><br/>
-  <sub><b>Ruby</b></sub><br/>
-  <sub>⭐⭐⭐</sub>
 </td>
 </tr>
 </table>
