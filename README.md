@@ -12,7 +12,7 @@
 
 ## ⚡ About Me
 
-> Solo Developer from India 🇮🇳  
+> Self-taught Developer from India 🇮🇳  
 > Building fast APIs & scalable systems 🚀  
 
 - 💻 Full-Stack Developer  
