@@ -26,7 +26,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" valign="middle" width="110">
-<img src="https://img.shields.io/badge/%20%20SD%20%20-DEV-7c3aed?style=for-the-badge&labelColor=4c1d95&color=6d28d9&logoColor=white" height="64" width="90"/>
+<img src="https://img.shields.io/badge/%20%20STD%20%20-DEV-7c3aed?style=for-the-badge&labelColor=4c1d95&color=6d28d9&logoColor=white" height="64" width="90"/>
 </td>
 <td width="24"></td>
 <td align="left" valign="middle">
