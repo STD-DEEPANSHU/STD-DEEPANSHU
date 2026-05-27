@@ -5,6 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&color=8b5cf6&center=true&vCenter=true&width=600&height=70&duration=1500&lines=Hey+There!+👋;I'm+STD+DEEPANSHU;Self-taught+Developer+🇮🇳;Founder+%40+STD+BOTS+🏭;Builder.+Shipper.+Always.+🚀" />
 </h1>
 
+<!-- DAYS OFF COUNTER - Auto updated by GitHub Actions -->
+![Days Off](https://img.shields.io/badge/🔴_OFF-Day_1_Since_27_May_2026-dc2626?style=for-the-badge&labelColor=1a0000)
+
+<br/>
+
 [![](https://img.shields.io/badge/deepanshu.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu.in)
 [![](https://img.shields.io/badge/Telegram-@STD__DEEPANSHU-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/STD_DEEPANSHU)
 [![](https://img.shields.io/badge/STD_BOTS-000000?style=for-the-badge&logo=telegram&logoColor=8b5cf6)](https://t.me/STDBOTS)
@@ -73,7 +78,7 @@ status     : Building. Always. 🔥
 <summary><h2>🌐 The STD Ecosystem</h2></summary>
 
 > Building a complete digital universe — one product at a time.
-> 
+>
 > Showing top 4 flagship products. **[→ See all 10 at deepanshu.in/projects](https://deepanshu.in/projects)**
 
 <br/>
