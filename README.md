@@ -10,6 +10,14 @@
 
 <br/>
 
+> 📚 **Bhai coding band, books khol li!** Government exam ki tayyari chal rahi hai — kyunki sarkar ki naukri mile ya na mile, *form toh bharna padta hai* 😅
+> 
+> 🖥️ Keyboard rakh diya, syllabus utha liya. Reasoning, GK, Math — ab yahi stack hai! 📖
+> 
+> ⏳ Jab tak wapas nahi aata — **commits band, padhai shuru!** 🫡
+
+<br/>
+
 [![](https://img.shields.io/badge/deepanshu.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu.in)
 [![](https://img.shields.io/badge/Telegram-@STD__DEEPANSHU-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/STD_DEEPANSHU)
 [![](https://img.shields.io/badge/STD_BOTS-000000?style=for-the-badge&logo=telegram&logoColor=8b5cf6)](https://t.me/STDBOTS)
