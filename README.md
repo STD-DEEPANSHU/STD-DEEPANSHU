@@ -2,6 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,20:0f0a1e,60:1e1248,100:2d1b69&height=280&section=header&text=STD%20DEEPANSHU&fontSize=82&fontColor=ffffff&fontAlignY=46&desc=%E2%9C%A6%20%40STD_DEEPANSHU%20%C2%B7%20TELEGRAM%20%E2%9C%A6&descAlignY=66&descColor=c4b5fd&animation=fadeIn&fontFamily=monospace&stroke=8b5cf6&strokeWidth=2" width="100%"/>
 </div>
 
+<!-- SEO: Plain text for Google crawling -->
+<div align="center">
+
+STD DEEPANSHU is a self-taught developer from India, specializing in building real-world systems including Telegram bots, automation tools, APIs, and modern web applications using Python and Next.js. Not from a traditional BCA/B.Tech background — purely self-taught, focused on practical, scalable, and functional coding. Founder of STD BOTS. Known on GitHub as STD-DEEPANSHU, where he builds and ships open-source tools, bots, and automation pipelines. Explore his work at [deepanshu.in](https://deepanshu.in).
+
+</div>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=⚡+Self-taught+Developer+%26+Builder+from+India+🇮🇳;🤖+Telegram+Bot+Architect+%7C+Pyrogram+·+Telethon+·+aiogram;☁️+Cloudflare+Workers+Specialist+%7C+Edge+Computing;🚀+API+%26+Gateway+Engineer+%7C+Flask+·+FastAPI+·+Gin;🏭+Founder+%40+STD+BOTS+%7C+Building+the+Future;🔥+Building+fast.+Shipping+faster.+Always.)](https://t.me/STD_DEEPANSHU)
