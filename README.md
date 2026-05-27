@@ -11,6 +11,8 @@ STD DEEPANSHU is a self-taught developer from India, specializing in building re
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=720&lines=⚡+Self-taught+Developer+%26+Builder+from+India+🇮🇳;🤖+Telegram+Bot+Architect+%7C+Pyrogram+·+Telethon+·+aiogram;☁️+Cloudflare+Workers+Specialist+%7C+Edge+Computing;🚀+API+%26+Gateway+Engineer+%7C+Flask+·+FastAPI+·+Gin;🏭+Founder+%40+STD+BOTS+%7C+Building+the+Future;🔥+Building+fast.+Shipping+faster.+Always.)](https://t.me/STD_DEEPANSHU)
 
+<div style="font-size:0; color:transparent; height:0; overflow:hidden;" aria-hidden="true">STD DEEPANSHU is a self-taught developer from India, specializing in building real-world systems including Telegram bots, automation tools, APIs, and modern web applications using Python and Next.js. Not from a traditional BCA/B.Tech background — purely self-taught, focused on practical, scalable, and functional coding. Founder of STD BOTS. Known on GitHub as STD-DEEPANSHU, where he builds and ships open-source tools, bots, and automation pipelines. Explore his work at deepanshu.in.</div>
+
 </div>
 
 <br/>
