@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/deepanshu.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://deepanshu.in)
 [![](https://img.shields.io/badge/Telegram-@STD__DEEPANSHU-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/STD_DEEPANSHU)
-[![](https://img.shields.io/badge/STD_BOTS_Channel-000000?style=for-the-badge&logo=telegram&logoColor=8b5cf6)](https://t.me/STDBOTS)
+[![](https://img.shields.io/badge/STD_BOTS-000000?style=for-the-badge&logo=telegram&logoColor=8b5cf6)](https://t.me/STDBOTS)
 [![](https://img.shields.io/badge/GitHub-STD--DEEPANSHU-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/STD-DEEPANSHU)
 
 *I don't have a degree. I have shipped products.*
@@ -31,7 +31,7 @@ name       : STD DEEPANSHU
 origin     : India 🇮🇳
 type       : Self-taught · No degree · No BCA · No B.Tech
 org        : Founder @ STD BOTS 🏭
-builds     : Bots · SaaS · APIs · AI Tools · Edge Systems
+ecosystem  : 10 products · All self-built
 stack      : Python · JavaScript · TypeScript · Go
 telegram   : @STD_DEEPANSHU
 web        : deepanshu.in
@@ -42,55 +42,57 @@ status     : Building. Always. 🔥
 <td width="42%" valign="top" align="center">
 
 ```
-╭─────────────────────────────╮
-│                             │
+╭──────────────────────────────╮
+│                              │
 │   No classroom taught me.   │
-│   Products did.             │
-│                             │
-│   4 live SaaS products.     │
-│   20+ Telegram bots.        │
-│   All self-built.           │
-│                             │
-╰─────────────────────────────╯
+│   Products did.              │
+│                              │
+│   10 products.               │
+│   20+ Telegram bots.         │
+│   All self-built.            │
+│   No degree. Just code.      │
+│                              │
+╰──────────────────────────────╯
 ```
 
 </td>
 </tr>
 </table>
 
-**My journey:**
-- 🧠 100% self-taught — no college, no bootcamp, just pure grind
-- 🚀 Built and shipped 4 live products used by real users
+- 🧠 100% self-taught — no college, no bootcamp, pure grind
+- 🌐 Building a **complete digital ecosystem** — 10 products, one vision
 - 🤖 Architect of 20+ Telegram bots running in production
-- 🏭 Founder of STD BOTS — building bot infrastructure for India
-- ⚡ Obsessed with automation, edge computing, and real-world systems
+- 🏭 Founder of **STD BOTS** — India's bot & automation hub
+- ⚡ Obsessed with shipping real things for real users
 
 </details>
 
 ---
 
 <details open>
-<summary><h2>🚀 What I've Shipped</h2></summary>
+<summary><h2>🌐 The STD Ecosystem</h2></summary>
 
-> These aren't side projects. These are live products.
+> Building a complete digital universe — one product at a time.
+> 
+> Showing top 4 flagship products. **[→ See all 10 at deepanshu.in/projects](https://deepanshu.in/projects)**
 
 <br/>
 
-<table width="100%" border="0" cellpadding="12">
+<table width="100%" border="0" cellpadding="14">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🤖 <a href="https://stdai.org">StdAI</a> — v3.0</h3>
+<h3>🤖 <a href="https://stdai.org">STD AI</a> — v3.0</h3>
 
-**AI companion platform with adaptive personalities**
+**AI companion with adaptive personalities**
 
-Multiple AI modes: General · Creative · Wellness · BFF · Learning. Conversation heatmap, session analytics, AI activity matrix. Powered by Gemini. Built from scratch.
+Multiple modes: General · Creative · Wellness · BFF · Learning. Conversation heatmap, session analytics, real-time AI activity matrix. Powered by Gemini.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=a78bfa)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=f59e0b)
 ![Gemini](https://img.shields.io/badge/Gemini_API-000?style=flat-square&logo=google&logoColor=60a5fa)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=f59e0b)
 
 </td>
 
@@ -100,7 +102,7 @@ Multiple AI modes: General · Creative · Wellness · BFF · Learning. Conversat
 
 **Social Media Downloader — 1847+ sites**
 
-YouTube · Instagram · TikTok · Twitter · and 1843 more. 4K quality. Auto cookies — uses your logged-in browser automatically. No manual login. Free forever.
+YouTube · Instagram · TikTok · Twitter and 1843 more. 4K quality. Auto cookies — uses your logged-in browser, zero manual login. Free forever.
 
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=a78bfa)
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff)
@@ -114,25 +116,25 @@ YouTube · Instagram · TikTok · Twitter · and 1843 more. 4K quality. Auto coo
 
 <td width="50%" valign="top">
 
-<h3>💻 <a href="https://stdcode.vercel.app">StdCode</a></h3>
+<h3>💻 <a href="https://stdcode.vercel.app">STD Code</a></h3>
 
-**Browser-based IDE — code anywhere**
+**Browser IDE — code from anywhere**
 
-Monaco Editor + real Python runtime + AI assistant + live preview. 20+ languages. No install. Prototype ideas, share snippets, export projects — all from your browser.
+Monaco Editor + real Python runtime + AI assistant + live preview. 20+ languages. No install needed. Prototype, share, export — all from your browser.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![Monaco](https://img.shields.io/badge/Monaco_Editor-000?style=flat-square&logo=visualstudiocode&logoColor=60a5fa)
-![AI](https://img.shields.io/badge/AI_Assistant-000?style=flat-square&logo=openai&logoColor=2dd4bf)
+![Python](https://img.shields.io/badge/Python_Runtime-000?style=flat-square&logo=python&logoColor=a78bfa)
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📚 <a href="https://stdstudy-frontend-65e50fc9d4e8.herokuapp.com">StdStudy</a></h3>
+<h3>📚 <a href="https://stdstudy-frontend-65e50fc9d4e8.herokuapp.com">STD Study</a></h3>
 
-**India's community-powered exam platform**
+**India's community exam platform**
 
-Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. District, State & All India rank system. Students create tests for students.
+Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. District, State & All India rank after every test. Students build tests for students.
 
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=60a5fa)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=2dd4bf)
@@ -142,6 +144,25 @@ Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. Dis
 
 </tr>
 </table>
+
+<div align="center">
+
+<br/>
+
+### + 6 more products in the ecosystem
+
+| Product | Category |
+|---------|----------|
+| 🌐 STD Browser | Browsing |
+| 💬 STD Gram | Chat & Messaging |
+| 📊 STD SMM | Marketing |
+| 🎬 STD Vibe | Videos |
+| 🛒 STD Bazaar | Shopping |
+| 🪪 STD ID | Digital Identity |
+
+**[→ Explore all at deepanshu.in/projects](https://deepanshu.in/projects)**
+
+</div>
 
 </details>
 
@@ -154,7 +175,7 @@ Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. Dis
 
 | Bot | Description |
 |-----|-------------|
-| `@StdStringBot` | Advanced Telegram String Session Generator with Web UI |
+| `@StdStringBot` | Telegram String Session Generator with Web UI |
 | `@StdSmdBot` | Social media downloader — 1847+ sites |
 | `@StdMusicBot` | Music streaming & download bot |
 | `@StdQuizBot` | Quiz system with live leaderboard |
@@ -191,7 +212,7 @@ Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. Dis
 
 **Databases & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,firebase,mysql,sqlite,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,firebase,mysql,sqlite,linux,vscode,github" />
 
 </div>
 
@@ -266,4 +287,4 @@ Free mock tests for SSC · Railways · UPSC · Banking · Defence · Police. Dis
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:0a0014,100:000000&height=140&section=footer&animation=fadeIn&desc=STD+BOTS+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Building.+Always.&descAlign=50&descAlignY=65&descColor=4c1d95&fontSize=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:0a0014,100:000000&height=140&section=footer&animation=fadeIn&desc=STD+ECOSYSTEM+%C2%B7+10+Products+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3+%C2%B7+Building.+Always.&descAlign=50&descAlignY=65&descColor=4c1d95&fontSize=1" width="100%"/>
