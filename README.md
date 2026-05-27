@@ -2,11 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,20:0f0a1e,60:1e1248,100:2d1b69&height=280&section=header&text=STD%20DEEPANSHU&fontSize=82&fontColor=ffffff&fontAlignY=46&desc=%E2%9C%A6%20%40STD_DEEPANSHU%20%C2%B7%20TELEGRAM%20%E2%9C%A6&descAlignY=66&descColor=c4b5fd&animation=fadeIn&fontFamily=monospace&stroke=8b5cf6&strokeWidth=2" width="100%"/>
 </div>
 
-<!-- SEO: Plain text for Google crawling -->
-<div align="center">
-
-STD DEEPANSHU is a self-taught developer from India, specializing in building real-world systems including Telegram bots, automation tools, APIs, and modern web applications using Python and Next.js. Not from a traditional BCA/B.Tech background — purely self-taught, focused on practical, scalable, and functional coding. Founder of STD BOTS. Known on GitHub as STD-DEEPANSHU, where he builds and ships open-source tools, bots, and automation pipelines. Explore his work at [deepanshu.in](https://deepanshu.in).
-
+<!-- SEO: Hidden text for Google crawling -->
+<div style="font-size:0; color:transparent; height:0; overflow:hidden;" aria-hidden="true">
+STD DEEPANSHU is a self-taught developer from India, specializing in building real-world systems including Telegram bots, automation tools, APIs, and modern web applications using Python and Next.js. Not from a traditional BCA/B.Tech background — purely self-taught, focused on practical, scalable, and functional coding. Founder of STD BOTS. Known on GitHub as STD-DEEPANSHU, where he builds and ships open-source tools, bots, and automation pipelines. Explore his work at deepanshu.in.
 </div>
 
 <div align="center">
