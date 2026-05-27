@@ -6,8 +6,7 @@
 </h1>
 
 <!-- DAYS OFF COUNTER - Auto updated by GitHub Actions -->
-![Days Off](https://img.shields.io/badge/🔴_OFF-Day_1_Since_27_May_2026-dc2626?style=for-the-badge&labelColor=1a0000)
-
+[![Days Off](https://img.shields.io/badge/🔴_OFF-Day_1_Since_27_May_2026-dc2626?style=for-the-badge&labelColor=1a0000)](https://deepanshu.in)
 <br/>
 
 > 📚 **Bhai coding band, books khol li!** Government exam ki tayyari chal rahi hai — kyunki sarkar ki naukri mile ya na mile, *form toh bharna padta hai* 😅
