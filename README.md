@@ -5,8 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&color=8b5cf6&center=true&vCenter=true&width=600&height=70&duration=1500&lines=Hey+There!+👋;I'm+STD+DEEPANSHU;Self-taught+Developer+🇮🇳;Founder+%40+STD+BOTS+🏭;Builder.+Shipper.+Always.+🚀" />
 </h1>
 
-<!-- DAYS OFF COUNTER - Auto updated by GitHub Actions -->
-[![Days Off](https://img.shields.io/badge/🔴_OFF-Day_1_Since_28_May_2026-dc2626?style=for-the-badge&labelColor=1a0000)](https://deepanshu.in/off)
+<!-- LIVE DAYS OFF COUNTER via API -->
+<a href="https://deepanshu.in/off">
+  <img src="https://deepanshu.in/api/days-off" alt="Days Off Counter" width="420"/>
+</a>
 
 <br/>
 
