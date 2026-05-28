@@ -12,9 +12,8 @@
 
 <br/>
 
-> 📚 **Keyboard rakh diya, books khol li!** Government exam ki tayyari chal rahi hai — kyunki sarkar ki naukri mile ya na mile, *form toh bharna padta hai* 😅
->
-> 🖥️ Reasoning, GK, Math — ab yahi stack hai! Jab tak wapas nahi aata — **commits band, padhai shuru!** 🫡
+
+> — ab yahi stack hai! Jab tak wapas nahi aata — **commits band, padhai shuru!** 🫡
 
 <br/>
 
