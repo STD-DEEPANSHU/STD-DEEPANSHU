@@ -25,7 +25,7 @@ jobs:
         run: |
           DAYS=${{ steps.days.outputs.days }}
           # Replace the days off line in README
-          sed -i "s/![Days Off].*$/![Days Off](https:\/\/img.shields.io\/badge\/🔴_OFF-Day_${DAYS}_Since_27_May_2026-dc2626?style=for-the-badge\&labelColor=1a0000)/" README.md
+          sed -i "s/![Days Off].*$/![Days Off](https:\/\/img.shields.io\/badge\/🔴_OFF-Day_${DAYS}_Since_28_May_2026-dc2626?style=for-the-badge\&labelColor=1a0000)/" README.md
 
       - name: Commit and Push
         run: |
